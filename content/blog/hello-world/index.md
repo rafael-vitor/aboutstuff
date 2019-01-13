@@ -1,21 +1,25 @@
 ---
-title: Hello World
-date: '2015-05-01T22:12:03.284Z'
+title: Why finally start blogging about stuff
+date: '2019-01-12T23:36:03.284Z'
 ---
 
-This is my first post on my new fake blog! How exciting!
+This last week I saw this tweet:
 
-I'm sure I'll write a lot more interesting things in the future.
+![Tweet](./tweet.png)
 
-Oh, and here's a great quote from this Wikipedia on
-[salted duck eggs](http://en.wikipedia.org/wiki/Salted_duck_egg).
+And decided that it was finally time.
 
-> A salted duck egg is a Chinese preserved food product made by soaking duck
-> eggs in brine, or packing each egg in damp, salted charcoal. In Asian
-> supermarkets, these eggs are sometimes sold covered in a thick layer of salted
-> charcoal paste. The eggs may also be sold with the salted paste removed,
-> wrapped in plastic, and vacuum packed. From the salt curing process, the
-> salted duck eggs have a briny aroma, a gelatin-like egg white and a
-> firm-textured, round yolk that is bright orange-red in color.
+I've recently started a repo called [sidnky](https://github.com/rafael-vitor/sidnky) which
+stands for **Stuff I Do Not Know Yet** (I'm not good with names). It's a list of things I've
+come across and for some reason didn't dedicate the time to properly understand it on a
+satisfying level and some tips on how to go about properly learning them. This was inspired
+by Dan Abramov's post about
+[Things he doesn't know as of 2018](https://overreacted.io/things-i-dont-know-as-of-2018/)
+from whom I've also taken the idea of using
+[gatsby-starter-blog](https://github.com/gatsbyjs/gatsby-starter-blog)
+to quickstart my own.
 
-![Chinese Salty Egg](./salty_egg.jpg)
+Sidnky's purpose is to help me take the time to properly study the things I find interesting
+and this blog will hopefully get me to share these pieces of knowledge so they can exist
+on the internet where anyone, maybe even me from the future after not being in contact with
+a specific topic for some time, can absorb it.
