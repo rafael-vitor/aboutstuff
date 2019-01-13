@@ -1,5 +1,5 @@
 ---
-title: Why finally start blogging about stuff
+title: Why finally start writing about stuff
 date: '2019-01-12T23:36:03.284Z'
 ---
 
